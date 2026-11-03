@@ -1,0 +1,6 @@
+{
+  "name": "Affiliate Article Studio",
+  "description": "Professional Amazon affiliate article generator with dynamic copy engine, comparison tables, high-converting CTR buttons, SEO pack, and rich JSON-LD schema.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
